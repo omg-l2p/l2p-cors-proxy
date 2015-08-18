@@ -1,0 +1,28 @@
+{
+  "name": "l2p-cors-proxy",
+  "version": "1.0.0",
+  "description": "Cors proxy",
+  "main": "index.js",
+  "dependencies": {
+    "cors-anywhere": "^0.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omg-l2p/l2p-cors-proxy"
+  },
+  "keywords": [
+    "l2p",
+    "cors",
+    "proxy"
+  ],
+  "author": "Kevin Jahns <kevin.jahns@rwth-aachen.de>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/omg-l2p/l2p-cors-proxy/issues"
+  },
+  "homepage": "https://github.com/omg-l2p/l2p-cors-proxy"
+}
